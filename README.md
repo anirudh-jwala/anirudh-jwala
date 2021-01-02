@@ -6,8 +6,8 @@
 
 ### Online presence:
 
-![Website](https://img.shields.io/website?down_color=lightgrey&down_message=Upgrading%20portfolio&label=Portfolio&style=for-the-badge&up_message=Website&url=https%3A%2F%2Fanirudhjwala.me)
-![Twitter](https://img.shields.io/twitter/follow/theJwala?color=%231DA1F2&logo=Twitter&style=for-the-badge)
+[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=Upgrading%20portfolio&label=Portfolio&style=for-the-badge&up_message=Website&url=https%3A%2F%2Fanirudhjwala.me)](https://anirudhjwala.me/)
+[![Twitter](https://img.shields.io/twitter/follow/theJwala?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/theJwala)
 
 <br />
 
