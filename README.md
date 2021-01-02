@@ -31,3 +31,5 @@
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="Anirudh Jwala's GitHub Stats" src="https://github-readme-stats-git-master.anirudh-jwala.vercel.app/api?username=anirudh-jwala&show_icons=true&hide_border=true" />
 </details>
+
+![Spotify](https://novatorem-git-master.anirudh-jwala.vercel.app/api/spotify)
