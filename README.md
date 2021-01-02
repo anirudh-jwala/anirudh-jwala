@@ -4,12 +4,10 @@
 - 🌱 I learn something new in JavaScript everyday
 - 📫 How to reach me: @theJwala
 
-### Connect with me:
+### Online presence:
 
-[<img align="left" alt="anirudhjwala.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="anirudhjwala | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="anirudhjwala | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="anirudhjwala | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+![Website](https://img.shields.io/website?down_color=lightgrey&down_message=Upgrading%20portfolio&label=Portfolio&style=for-the-badge&up_message=Website&url=https%3A%2F%2Fanirudhjwala.me)
+![Twitter](https://img.shields.io/twitter/follow/theJwala?color=%231DA1F2&logo=Twitter&style=for-the-badge)
 
 <br />
 
@@ -33,8 +31,3 @@
   <img align="left" alt="Anirudh Jwala's GitHub Stats" src="https://github-readme-stats-git-master.anirudh-jwala.vercel.app/api?username=anirudh-jwala&show_icons=true&hide_border=true" />
 
 </details>
-
-[website]: https://anirudhjwala.me
-[twitter]: https://twitter.com/theJwala
-[instagram]: https://instagram.com/anirudhjwala
-[linkedin]: https://linkedin.com/in/anirudh-jwala
