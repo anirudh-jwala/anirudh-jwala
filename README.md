@@ -7,9 +7,11 @@
 ### Online presence
 
 [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=Upgrading%20portfolio&label=Portfolio&style=for-the-badge&up_message=Website&url=https%3A%2F%2Fanirudhjwala.me)](https://anirudhjwala.me/)
-[![Twitter](https://img.shields.io/twitter/follow/theJwala?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/theJwala)
-
 <br />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudh-jwala)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/theJwala)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirudhjwala@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anirudhjwala)
 
 ### Languages and Tools
 
