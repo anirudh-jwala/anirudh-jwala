@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on building beautiful web application with JavaScript
 - 🌱 I learn something new in JavaScript everyday
-- 📫 How to reach me: @theJwala
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudhjwala)
 
